@@ -3,12 +3,9 @@ h1, h2, h3, h4, p, img {
     padding: 0;
 }
 
-.container {
-    margin-top: 64px;
-}
-
 .navbar {
     padding: 0;
+    margin-top: 64px;
 }
 
 .navig-format {
@@ -30,7 +27,6 @@ h1, h2, h3, h4, p, img {
 .navbar-light .navbar-nav .nav-link:hover {
     color: orange;
     border-bottom: 1px solid orange;
-    
 }
 
 .btn-orange {
@@ -195,7 +191,6 @@ hr {
     padding-top: 80px;
 }
 
-
 .mid-part-3 .col-7 {
     display: flex;
     justify-content: flex-end;
@@ -295,5 +290,4 @@ hr {
     line-height: 18px;
     opacity: 0.5;
     margin: 40px 0;
-    
 }
